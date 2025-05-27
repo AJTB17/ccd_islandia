@@ -1,0 +1,11 @@
+# R/Quarto generated files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*_files/
+*.html
+*.pdf
+.quarto/
+/_site/
+/rsconnect/
